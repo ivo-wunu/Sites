@@ -1,0 +1,33 @@
+#imag img {
+    width:268px; 
+    height:200px;
+}
+#colun1, #colun2, #colun3, #colun4 {
+    margin: 15px;
+    padding: 5px;
+    float: left;
+    width: 40%;
+    height: 340px;
+   /* border: 1px solid black;*/
+}
+.texto{
+    text-align: justify;
+}
+#inform{
+    margin-top: -20px;
+    margin-left: 176px;
+    width: 960px;
+}
+#inform .title2, .title1 {
+    text-align: justify;
+    color: white;
+}
+#featured-content{
+    text-align: center;
+}
+#info4{
+    margin-top: -10px;
+    margin-left: -20px;
+    width: 400px;
+    height: 710px;
+}
